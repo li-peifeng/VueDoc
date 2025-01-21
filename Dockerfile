@@ -1,0 +1,1 @@
+FROM pandastd/vuedoc:latest
